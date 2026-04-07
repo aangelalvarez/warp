@@ -1,0 +1,55 @@
+# name: iTerm2 Default # Matches your iTerm2 "Name": "Default"
+# accent: "#FFFFFF" # Matches iTerm2 Cursor Color
+# cursor: "#FFFFFF" # Matches iTerm2 Cursor Color
+# background: "#161B22" # Converted from iTerm2 Background Color
+# foreground: "#FFFFFF" # Matches iTerm2 Foreground Color
+# details: darker # Background is dark
+# terminal_colors: # ANSI colors mapped from iTerm2
+#   normal: # Normal ANSI colors (0-7)
+#     black: "#2E343B" # Ansi 0 Color
+#     red: "#ff8272" # Ansi 1 Color
+#     green: "#0C1F7B" # Ansi 2 Color
+#     yellow: "#FC00FF" # Ansi 3 Color
+#     blue: "#00F0EE" # Ansi 4 Color
+#     magenta: "#FF003A" # Ansi 5 Color
+#     cyan: "#00FFFC" # Ansi 6 Color
+#     white: "#FFFFFF" # Ansi 7 Color
+#   bright: # Bright ANSI colors (8-15)
+#     black: "#404955" # Ansi 8 Color
+#     red: "#ffc4bd" # Ansi 9 Color
+#     green: "#0C1F7B" # Ansi 10 Color
+#     yellow: "#FD00FF" # Ansi 11 Color
+#     blue: "#00FCFF" # Ansi 12 Color
+#     magenta: "#FF003A" # Ansi 13 Color
+#     cyan: "#00FDFC" # Ansi 14 Color
+#     white: "#FFFFFF" # Ansi 15 Color
+
+
+---
+background: "#151b21"
+accent: "#ffffff"
+foreground: "#ffffff"
+background_image:
+  path: /Users/angel/.warp/themes/iTerm2.jpeg
+  opacity: 30
+details: darker
+terminal_colors:
+  normal:
+    black: "#616161"
+    red: "#ff8272"
+    green: "#b4fa72"
+    yellow: "#fefdc2"
+    blue: "#a5d5fe"
+    magenta: "#ff8ffd"
+    cyan: "#d0d1fe"
+    white: "#f1f1f1"
+  bright:
+    black: "#8e8e8e"
+    red: "#ffc4bd"
+    green: "#d6fcb9"
+    yellow: "#fefdd5"
+    blue: "#c1e3fe"
+    magenta: "#ffb1fe"
+    cyan: "#e5e6fe"
+    white: "#feffff"
+name: iTerm2
